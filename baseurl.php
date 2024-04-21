@@ -1,3 +1,3 @@
 <?php
-	$baseurl = "http://localhost/office/antiGravityClothing/";
+	$baseurl = "https://suniln3193.github.io/HTML-CSS-Projects/";
 ?>
