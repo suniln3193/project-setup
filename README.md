@@ -1,4 +1,4 @@
-# HTML-CSS-Projects
+# It is basic project setup
 
 <br>
 This is my repository
